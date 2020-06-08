@@ -9,7 +9,7 @@
       name: "login",
       data(){
         return{
-          msg:"vue你好，我第一次做项目"
+          msg:"vue你好，我第二次做项目"
         }
       }
 
